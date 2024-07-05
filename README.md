@@ -1,3 +1,3 @@
 # Contraceptive-use
-## Contrinutors
+*Contrinutors
 -otieno
